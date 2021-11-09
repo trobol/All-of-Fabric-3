@@ -1,0 +1,13 @@
+name = "Alaska Native Craft"
+filename = "alaskanativecraft-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3340/512/alaskanativecraft-1.2.2.jar"
+hash-format = "murmur2"
+hash = "3217048627"
+
+[update]
+[update.curseforge]
+file-id = 3340512
+project-id = 435197

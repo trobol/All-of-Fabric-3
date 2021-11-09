@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Fabric-1.16.5-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/193/EnchantmentDescriptions-Fabric-1.16.5-2.0.6.jar"
+hash-format = "murmur2"
+hash = "286748804"
+
+[update]
+[update.curseforge]
+file-id = 3360193
+project-id = 250419

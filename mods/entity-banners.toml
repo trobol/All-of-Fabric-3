@@ -1,0 +1,13 @@
+name = "Entity Banners"
+filename = "entity-banners-1.16.5-1.0-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/320/entity-banners-1.16.5-1.0-BETA.jar"
+hash-format = "murmur2"
+hash = "3558962199"
+
+[update]
+[update.curseforge]
+file-id = 3273320
+project-id = 470149

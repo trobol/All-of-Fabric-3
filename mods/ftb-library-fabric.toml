@@ -1,0 +1,13 @@
+name = "FTB Library (Fabric)"
+filename = "ftb-library-fabric-1605.3.1-build.33.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/867/ftb-library-fabric-1605.3.1-build.33.jar"
+hash-format = "murmur2"
+hash = "4087590056"
+
+[update]
+[update.curseforge]
+file-id = 3360867
+project-id = 438495

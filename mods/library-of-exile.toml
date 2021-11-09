@@ -1,0 +1,13 @@
+name = "Library of Exile"
+filename = "Library-Of-Exile-1.16.5-1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3357/61/Library-Of-Exile-1.16.5-1.0.12.jar"
+hash-format = "murmur2"
+hash = "4076201151"
+
+[update]
+[update.curseforge]
+file-id = 3357061
+project-id = 398780

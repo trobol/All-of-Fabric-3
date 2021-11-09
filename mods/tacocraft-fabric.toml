@@ -1,0 +1,13 @@
+name = "TacoCraft"
+filename = "TacoCraft-1.5.2+mc.1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3331/987/TacoCraft-1.5.2+mc.1.16.5.jar"
+hash-format = "murmur2"
+hash = "3229019783"
+
+[update]
+[update.curseforge]
+file-id = 3331987
+project-id = 373093

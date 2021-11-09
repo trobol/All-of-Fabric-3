@@ -1,0 +1,13 @@
+name = "Lapis Reserve"
+filename = "lapisreserve-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3311/319/lapisreserve-1.0.7.jar"
+hash-format = "murmur2"
+hash = "2609621366"
+
+[update]
+[update.curseforge]
+file-id = 3311319
+project-id = 399679

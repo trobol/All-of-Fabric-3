@@ -1,0 +1,13 @@
+name = "FTB Quests (Fabric)"
+filename = "ftb-quests-fabric-1605.3.3-build.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/1/ftb-quests-fabric-1605.3.3-build.26.jar"
+hash-format = "murmur2"
+hash = "10077275"
+
+[update]
+[update.curseforge]
+file-id = 3361001
+project-id = 438496

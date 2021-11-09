@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/bug_report.md"
-hash = "30701758f791c821c181bdb10e4b3ce5bea39048df2d0fe9b63bc1f80b3174a7"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/feature_request.md"
-hash = "51fe47751b4a7670b8c2ffb749efc7c94203c64fa53bf7ceb5acb9837c916fe1"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "7c0d223ae6334341a3644f16cd9b79851ceffa044783dccf8c980b9a10bc2252"
 
@@ -1405,10 +1397,6 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "568d42474b4140806f7e8f9268c4e643850a390bd07df1f4939c6758f3d02cfe"
 
 [[files]]
-file = "modpack.zip"
-hash = "b20167857f3099b672c2eaaded7c3cf906f260f3f47b80d64a9c586ecfdfb350"
-
-[[files]]
 file = "mods/addendum-fabric.toml"
 hash = "1ecae37c2ebccf3d9475f3bc3e975e2bca01ded3af17400dca1b19f9114398fa"
 metafile = true
@@ -2045,7 +2033,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-tooltips.toml"
-hash = "5326708704dba58e9c3d3523752c9788a60bad4e62d2cf2fff722e46f81b4935"
+hash = "92524acf8377de0810329838221042ec6e3b5d99c5ae4eb61e92056aad2700cf"
 metafile = true
 
 [[files]]

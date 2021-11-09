@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-Fabric-1.16.5-Release-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/606/CraftPresence-Fabric-1.16.5-Release-1.8.2.jar"
+hash-format = "murmur2"
+hash = "3437706913"
+
+[update]
+[update.curseforge]
+file-id = 3343606
+project-id = 297038

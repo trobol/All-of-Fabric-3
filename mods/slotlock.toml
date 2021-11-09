@@ -1,0 +1,13 @@
+name = "SlotLock"
+filename = "slotlock-1.0.3-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3269/549/slotlock-1.0.3-BETA.jar"
+hash-format = "murmur2"
+hash = "3932300890"
+
+[update]
+[update.curseforge]
+file-id = 3269549
+project-id = 408366

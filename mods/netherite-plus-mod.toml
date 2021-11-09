@@ -1,0 +1,13 @@
+name = "Netherite Plus Mod"
+filename = "netherite-plus-mod-1.4.3-1.16.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3273/334/netherite-plus-mod-1.4.3-1.16.5-fabric.jar"
+hash-format = "murmur2"
+hash = "2610674268"
+
+[update]
+[update.curseforge]
+file-id = 3273334
+project-id = 394120

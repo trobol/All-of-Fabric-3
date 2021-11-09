@@ -1,0 +1,13 @@
+name = "Mystical Agriculture: Refabricated"
+filename = "MysticalAgriculture-Refabricated-1.16.5-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3335/574/MysticalAgriculture-Refabricated-1.16.5-1.1.6.jar"
+hash-format = "murmur2"
+hash = "1592448598"
+
+[update]
+[update.curseforge]
+file-id = 3335574
+project-id = 473200

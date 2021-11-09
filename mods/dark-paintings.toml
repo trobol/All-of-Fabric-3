@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-Fabric-1.16.5-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3358/159/DarkPaintings-Fabric-1.16.5-3.0.2.jar"
+hash-format = "murmur2"
+hash = "1221103038"
+
+[update]
+[update.curseforge]
+file-id = 3358159
+project-id = 377281

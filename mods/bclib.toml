@@ -1,0 +1,13 @@
+name = "BCLib"
+filename = "bclib-0.1.43.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/134/bclib-0.1.43.jar"
+hash-format = "murmur2"
+hash = "2193486894"
+
+[update]
+[update.curseforge]
+file-id = 3360134
+project-id = 495191

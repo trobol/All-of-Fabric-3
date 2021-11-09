@@ -1,0 +1,13 @@
+name = "JMX"
+filename = "jmx-mc116-1.22.185.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/840/jmx-mc116-1.22.185.jar"
+hash-format = "murmur2"
+hash = "95975099"
+
+[update]
+[update.curseforge]
+file-id = 3319840
+project-id = 324066

@@ -1,0 +1,13 @@
+name = "Fermion"
+filename = "fermion-mc116-2.9.221.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/820/fermion-mc116-2.9.221.jar"
+hash-format = "murmur2"
+hash = "1588137706"
+
+[update]
+[update.curseforge]
+file-id = 3319820
+project-id = 318760

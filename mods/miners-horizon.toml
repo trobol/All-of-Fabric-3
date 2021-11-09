@@ -1,0 +1,13 @@
+name = "Miner's Horizon"
+filename = "miners-horizon-1.6.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3337/195/miners-horizon-1.6.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "3298135118"
+
+[update]
+[update.curseforge]
+file-id = 3337195
+project-id = 319826

@@ -1,0 +1,13 @@
+name = "Dawn API"
+filename = "dawn-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3256/690/dawn-1.8.jar"
+hash-format = "murmur2"
+hash = "1698239096"
+
+[update]
+[update.curseforge]
+file-id = 3256690
+project-id = 399309

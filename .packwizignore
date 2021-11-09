@@ -1,7 +1,7 @@
 .git/**
 .gitattributes
 .gitignore
-.github/
+.github/**
 
 README.md
 CHANGELOGS.md
@@ -9,3 +9,4 @@ LICENSE
 manifest.json
 minecraftinstance.json
 servers.dat
+All-of-Fabric-3.zip

@@ -1,0 +1,13 @@
+name = "All of Fabric 3 - 1.16.5"
+filename = "All of Fabric 3-2.8.5.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/612/All of Fabric 3-2.8.5.zip"
+hash-format = "murmur2"
+hash = "3954240213"
+
+[update]
+[update.curseforge]
+file-id = 3361612
+project-id = 390331

@@ -1,0 +1,13 @@
+name = "More Tooltips"
+filename = "%5b1.16.4%5d MoreTooltips-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3124/331/%5b1.16.4%5d%20MoreTooltips-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2663945909"
+
+[update]
+[update.curseforge]
+file-id = 3124331
+project-id = 421949
