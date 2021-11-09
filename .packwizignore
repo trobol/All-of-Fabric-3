@@ -1,0 +1,11 @@
+.git/**
+.gitattributes
+.gitignore
+.github/
+
+README.md
+CHANGELOGS.md
+LICENSE
+manifest.json
+minecraftinstance.json
+servers.dat

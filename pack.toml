@@ -1,0 +1,11 @@
+name = "All-of-Fabric-3"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea1027a29b1cf5507926754633bf0fd15f6ce4942cff58eac74a16f2d227178c"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"
