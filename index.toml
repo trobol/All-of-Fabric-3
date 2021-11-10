@@ -370,7 +370,7 @@ hash = "9878fa2025f5b4e24f8ee4c3b1219451cb1d1ec654c1d99dda34ddf6612a94d4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/art_of_alchemy.snbt"
-hash = "c507f3a6a43a21e49001fcfd4e791c20859b32f2a47872251e2b791b0c483091"
+hash = "ebd4a68bda029720ebd1ca997e2261c27d15dcc2f97bf775e5578aed55aef6d4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/artifacts.snbt"
@@ -378,7 +378,7 @@ hash = "d98ddcda8364fea00796880c5e4092006056e4834e9c494a6b420d0d363cb45d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bewitchment.snbt"
-hash = "23cf645e82b7ec4a2730894adad35967fada5c8f9f04b77f15c10c43eca64eb4"
+hash = "4ef25067cbdfe2e4795a7badd9722f33976629053cc46359b5c017ec1d17cb20"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/conjurer.snbt"
@@ -1452,6 +1452,11 @@ hash = "9dc5404c643897b690dd8d8220656ed8b87df59e4ae5e067ad732a7feac0a1fb"
 metafile = true
 
 [[files]]
+file = "mods/art-of-alchemy-memoriam.toml"
+hash = "e51991c11bd232f9bb7c6fa4802514e00a7d6632169e2fb3fed6424c04bd4dce"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-fabric.toml"
 hash = "44e134ddc8069131ddafceebfc6243273ee44890e928994fad5d67b31cce0aa1"
 metafile = true
@@ -1927,6 +1932,11 @@ hash = "8f0b4f23d9d11a08ce00e758c3ccd250554fcbba3f515dabbd8ddfb5fe244389"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "fb74f89c8b5ed1c0e8731c019af92d4892b814ef8feb0a0c23dd80647513d2f2"
+metafile = true
+
+[[files]]
 file = "mods/industrial-revolution.toml"
 hash = "2bac98d6522214ceeed6b203c836eeb322b59f8bd97a7ba0c7e34817f7691409"
 metafile = true
@@ -2137,6 +2147,11 @@ hash = "caf52952c37c042fa9e3c5f23d7272855c2b725a44c7d57d4055d2ef217d7eea"
 metafile = true
 
 [[files]]
+file = "mods/prefab-fabric.toml"
+hash = "4ec05a6590012a9ba63c582c8d05f88a6d178b104ff8c8bfa98ef412ead3645a"
+metafile = true
+
+[[files]]
 file = "mods/promenade.toml"
 hash = "2a0041cd4cbb123798a22ab8b1b0634759785287effa2f82cc053b2f6261fdfe"
 metafile = true
@@ -2222,6 +2237,11 @@ hash = "fe794509e22c1e01f49b3a68b9010a5fc6f20a31eb031e5a543fdd4f815c8784"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "754c98bc5913b3497abeb90ccee6cdfe83626c33b88382a2818ec29268763223"
+metafile = true
+
+[[files]]
 file = "mods/simpleharvest.toml"
 hash = "46bf4a05cf703c999b4c9be10833dde771210fbf428ec9f4fac9f2338c74d598"
 metafile = true
@@ -2244,6 +2264,11 @@ metafile = true
 [[files]]
 file = "mods/smoother-bedrock.toml"
 hash = "a2f7ed6ee06974425921640b493a4cdc384cd441f9901358d12e6309f1fae0d3"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "c060c4d50466409d94ab27aa0aa0ff35f41ff09b47641089e7ea9c7d627980c3"
 metafile = true
 
 [[files]]
