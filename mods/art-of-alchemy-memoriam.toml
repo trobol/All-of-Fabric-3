@@ -1,0 +1,13 @@
+name = "Art of Alchemy: Memoriam"
+filename = "artofalchemy-1.1.0+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3383/183/artofalchemy-1.1.0+1.16.5.jar"
+hash-format = "murmur2"
+hash = "3969797616"
+
+[update]
+[update.curseforge]
+file-id = 3383183
+project-id = 415339
