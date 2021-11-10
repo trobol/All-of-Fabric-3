@@ -1417,6 +1417,11 @@ hash = "e6cc16f2af44177d07b3c3b80b83e128a05ab0541f3045df3d6cf79a2fb96b29"
 metafile = true
 
 [[files]]
+file = "mods/aether-reborn.toml"
+hash = "5ab8b0ffb2bbff524dce02e5bee7ab6f8ade1b6809d2b27c46fa2d6fef338b97"
+metafile = true
+
+[[files]]
 file = "mods/alaska-native-craft.toml"
 hash = "8bd34f999bab99fe639e44b7691bdc0aa88a4d5adc6b092ac1e243583cab1e34"
 metafile = true
@@ -1487,6 +1492,11 @@ hash = "d541fce278ad307cea329852010bafc783414edfce5940fcf9357c40aff60758"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.toml"
+hash = "8ba0150ba10238c1e7db710b9a3df13500d1ddeee941d54f364f2097492c95f3"
+metafile = true
+
+[[files]]
 file = "mods/biome-locator.toml"
 hash = "cd157275f5c03b6e22340a7b01875e3c842127ab3da08e1f23db5f18a138a2a5"
 metafile = true
@@ -1508,7 +1518,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockshifter.toml"
-hash = "7ac0a5f58c5104cc89a942009774628280f0c38c4fcbf34901160601c0a9602b"
+hash = "19df3a740e1cfd2c8094d2ba0ca2a30ad1c397ec434614f151f2bc3ec1e445ca"
 metafile = true
 
 [[files]]
@@ -1519,6 +1529,11 @@ metafile = true
 [[files]]
 file = "mods/boring-backgrounds.toml"
 hash = "caf4107baf1be9e1383276eb1d06d4b72c339dd2efdf6b6ad6edba5f7b622213"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "fa6a228cd7ea5774e3f9dbf66c1c869bef00929bd703e67d45a682d8c4188cd9"
 metafile = true
 
 [[files]]
@@ -1659,6 +1674,11 @@ metafile = true
 [[files]]
 file = "mods/crusade.toml"
 hash = "183bdf6906d23d6276f75249f944ff1238c77a80266844b142f90fa378dd291e"
+metafile = true
+
+[[files]]
+file = "mods/curios-fabric.toml"
+hash = "ef0f632d620519f185cec0005939e8e6207ecc68eda1ce6e77a84e7cb5227b40"
 metafile = true
 
 [[files]]
@@ -1897,6 +1917,11 @@ hash = "110e609e0afc10c58125d6574181548bcd02f68596c289c344bc05c9c4d17939"
 metafile = true
 
 [[files]]
+file = "mods/impersonate.toml"
+hash = "8ade7282c86d7205441868bcd3a7afa8cec81e6990715b191dd36ba63a7e8d69"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.toml"
 hash = "8f0b4f23d9d11a08ce00e758c3ccd250554fcbba3f515dabbd8ddfb5fe244389"
 metafile = true
@@ -2033,7 +2058,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-tooltips.toml"
-hash = "92524acf8377de0810329838221042ec6e3b5d99c5ae4eb61e92056aad2700cf"
+hash = "ab06457b319a40dc6574138786b99ceda689c8f1d843e61c5415d8f274b31ff9"
 metafile = true
 
 [[files]]
@@ -2094,6 +2119,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.toml"
 hash = "a97798be81b44957c51b70720369d3863f7b62798e795e749b2f71fa56b97df0"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "25bfd89f09e2ce954d28fad8117da91f0ae2527730134e6ba9e862f3602da36c"
 metafile = true
 
 [[files]]
@@ -2214,6 +2244,11 @@ metafile = true
 [[files]]
 file = "mods/smoother-bedrock.toml"
 hash = "a2f7ed6ee06974425921640b493a4cdc384cd441f9901358d12e6309f1fae0d3"
+metafile = true
+
+[[files]]
+file = "mods/somnus.toml"
+hash = "132bf540740c1efdfe9cd227887e5552632abb8e1e8cb5c75fa7a1c32828197c"
 metafile = true
 
 [[files]]

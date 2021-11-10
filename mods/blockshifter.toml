@@ -1,13 +1,13 @@
 name = "Blockshifter [Fabric]"
-filename = "blockshifter-1.3.2+fabric-1.16.4.jar"
+filename = "blockshifter-1.4.0+fabric-1.16.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3104/836/blockshifter-1.3.2+fabric-1.16.4.jar"
+url = "https://edge.forgecdn.net/files/3402/300/blockshifter-1.4.0+fabric-1.16.4.jar"
 hash-format = "murmur2"
-hash = "3074011992"
+hash = "44636173"
 
 [update]
 [update.curseforge]
-file-id = 3104836
+file-id = 3402300
 project-id = 398676

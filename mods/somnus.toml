@@ -1,0 +1,13 @@
+name = "Somnus API"
+filename = "somnus-fabric-0.0.12-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3438/305/somnus-fabric-0.0.12-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2095278811"
+
+[update]
+[update.curseforge]
+file-id = 3438305
+project-id = 433538
