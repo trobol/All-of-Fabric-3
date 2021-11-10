@@ -1,0 +1,13 @@
+name = "Prefab - Fabric"
+filename = "prefab-fabric-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3434/533/prefab-fabric-1.0.6.jar"
+hash-format = "murmur2"
+hash = "1192860592"
+
+[update]
+[update.curseforge]
+file-id = 3434533
+project-id = 438696
