@@ -2062,11 +2062,6 @@ hash = "7a3b1704aac82ef7207a0827b3aa156f9d6659140086b402a0d45964b8e68240"
 metafile = true
 
 [[files]]
-file = "mods/more-tooltips.toml"
-hash = "ab06457b319a40dc6574138786b99ceda689c8f1d843e61c5415d8f274b31ff9"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers-fabric.toml"
 hash = "eb82fde867d2fd81632094e8c8494286a7d5a6e54a432a46f6d8668d20f487f2"
 metafile = true
