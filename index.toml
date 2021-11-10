@@ -310,7 +310,7 @@ hash = "925ef6403897e25ed9e7d8903343f6c2c2df3eb17d293536d747107b5f0b0ad6"
 
 [[files]]
 file = "config/entitybanners.json"
-hash = "62363213f60bc6a699b005a0d0ddf465cbe9ef73adee898fdc253f81b4c50f73"
+hash = "d34ad777326c054551c28e252114cc7a3383e1c437c61025f90ff1f035676040"
 
 [[files]]
 file = "config/exotic-matter.json5"
