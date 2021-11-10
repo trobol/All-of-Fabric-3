@@ -1,8 +1,0 @@
-name = "Botania"
-filename = "Botania-1.16.4-413-FABRIC-SNAPSHOT.jar"
-side = "both"
-
-[download]
-url = "https://ci.blamejared.com/job/Botania/job/1.16.x-fabric/lastSuccessfulBuild/artifact/build/libs/Botania-1.16.4-413-FABRIC-SNAPSHOT.jar"
-hash-format = "sha256"
-hash = "F17EF9DA4C17B88C227160BFCAEEC70E2EAA56B19E43FAE6526035C13C8E4425"
