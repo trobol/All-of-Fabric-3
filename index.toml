@@ -1862,8 +1862,8 @@ hash = "688503acbea49c44adcec12efd6b5a22f2fc3e80309e3fdadb8bca7f85ccb922"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric.toml"
-hash = "0336b44fa8fc990dbe89dc8a47649f36473b4624f33f531c9cb6b54c9a571dd1"
+file = "mods/geckolib.toml"
+hash = "33e0fc6352edefb3eda484661c84671eecf5d9def5eb6e6d5d68e609eade2ee9"
 metafile = true
 
 [[files]]
@@ -2074,6 +2074,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture-refabricated.toml"
 hash = "00ef83bdeca7ac59a51748b6ceebb329825467c420c215526680b71294a0b6d3"
+metafile = true
+
+[[files]]
+file = "mods/mythic-mounts.toml"
+hash = "f55f7e062a5790a12a0cfdcf7ce0e4dcb2eac998b77e17ea154e18bfca14856a"
 metafile = true
 
 [[files]]
