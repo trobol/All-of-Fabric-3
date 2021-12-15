@@ -3,9 +3,9 @@ Modified version of All of Fabric 3
 
 MultiMC install instructions:
 
-Install [MultiMC](https://multimc.org/#Download)
+1. Install [MultiMC](https://multimc.org/#Download)
 
-Add Instance -> Import from Zip -> Enter URL: `https://thornton.one/All-of-Fabric-3/All-of-Fabric-3.zip`
+2. Add Instance -> Import from Zip -> Enter URL: `https://thornton.one/All-of-Fabric-3/All-of-Fabric-3.zip`
 
 
 
