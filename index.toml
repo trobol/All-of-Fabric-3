@@ -1378,7 +1378,7 @@ hash = "cac39d8e1bec6f5db6872be2816d12985c9a72104de0c33d7591dee1bf4bdf13"
 
 [[files]]
 file = "kubejs/server_scripts/unification.js"
-hash = "a2a0370b79c7441f8c0be456eb78dbd8737ff402277bff0e93f54c96006805be"
+hash = "deacfb4c5635d69936b52225a4cd5ea220780e80609ccb596162b73a04ad78d4"
 
 [[files]]
 file = "kubejs/startup_scripts/aof_logo.js"

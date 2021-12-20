@@ -550,4 +550,48 @@ events.listen("recipes", function (event) {
   });
 
   event.replaceInput({}, "minecraft:quartz", "#c:quartz");
+
+ // ------ BEWITCHMENT -------
+
+ var bewitch_metals = [ "silver" ];
+
+  /*
+ // ores
+ bewitch_metals.forEach(function (item, index) {
+	event.replaceInput(
+		{},
+		"bewitchment:" + item + "_ore",
+		"techreborn:" + item + "_ore"
+	)
+ });
+
+  // ingot
+  bewitch_metals.forEach(function (item, index) {
+	event.replaceInput(
+		{},
+		"bewitchment:" + item + "_ingot",
+		"techreborn:" + item + "_ingot"
+	)
+ });
+
+	// nugget
+	bewitch_metals.forEach(function (item, index) {
+		event.replaceInput(
+			{},
+			"bewitchment:" + item + "_nugget",
+			"techreborn:" + item + "_nugget"
+		)
+	});
+
+	// block
+	bewitch_metals.forEach(function (item, index) {
+		event.replaceInput(
+			{},
+			"bewitchment:" + item + "_block",
+			"techreborn:" + item + "_block"
+		)
+	});
+	*/
+
+	event.remove({output: 'bewitchment:silver_ingot'});
 });
